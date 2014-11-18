@@ -1,8 +1,8 @@
-NoShaderPack
+﻿NoShaderPack
 ============
 
 Es ist wieder da
 
-Wir arbeiten Daran ...
+Wir arbeiten daran ...
 ja äh ...
 ach is egal.
